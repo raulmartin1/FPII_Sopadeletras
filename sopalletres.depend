@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1685087231 source:c:\raul\fp i\sopalletres\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
